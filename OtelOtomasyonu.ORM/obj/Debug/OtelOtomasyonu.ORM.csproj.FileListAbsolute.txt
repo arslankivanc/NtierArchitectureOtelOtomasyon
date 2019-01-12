@@ -1,0 +1,6 @@
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojAssemblyReference.cache
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csproj.CoreCompileInputs.cache
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+C:\C#\C# ADO.NET\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb
